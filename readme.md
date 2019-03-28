@@ -8,6 +8,8 @@
 * rapporteren
 * maken en opvolgen van afspraken
 
+- - - -
+
 ### Technische analyse
 
 ### Topologie en netwerkschema
