@@ -1,6 +1,6 @@
-# Deadlinegebonden praktijkopdrachten 1/2
+# 1. Deadlinegebonden praktijkopdrachten 1/2
 
-## Inleiding
+## 1.1. Inleiding
 
 Als netwerkbeheerders van het bedrijf Cosci.be is jullie onderstaande opdracht toevertrouwd. Vanbij het begin en tijdens de uitvoer van deze opdracht dienen jullie over volgende aspecten duidelijkna te denken:
 
@@ -10,32 +10,30 @@ Als netwerkbeheerders van het bedrijf Cosci.be is jullie onderstaande opdracht t
 * rapporteren
 * maken en opvolgen van afspraken
 
-## Goede afspraken maken goede vrienden
+## 1.2. Goede afspraken maken goede vrienden
 
 Stel een samenwerkingscontract op tegen de volgende les. Daarvoor dienen jullie na te denken overvolgende punten:
 
 * Wat houdt een goede samenwerking in?
 * Wie neemt welke rollen op zich?
 * Wanneer en hoe vaak komen we (minstens) samen?
-* ... 
+* ...
 
 Het samenwerkingscontract is een door alle leden van het team ondertekend document waarin jullieafspraken maken om deze praktijkopdracht tot een goed einde te brengen.
 
 Deadline: Eerste les na de paasvakantie.
 
-## Cosci.be
+## 1.3. Cosci.be
 
 Cosci is een internationaal bedrijf met 5 vestigingen in Europa en Amerika.  Op de Aziatischeafzetmarkt hadden ze tot op vandaag nog geen vestiging, maar daar komt nu verandering in. De CEO van Cosci heeft vanmorgen een studiebureau aangesteld om een extra vestiging in Okayamaop te starten.Jullie hebben de opdracht gekregen om een bedrijfskritische netwerktopologie voor te stellen.
 
-## Okayama
+## 1.4. Okayama
 
 De vestiging in Okayama zal bestaan uit drie gebouwen: een fabrieksgebouw en twee administ&ratieve gebouwen. In het fabrieksgebouw dient momenteel geen netwerk voorzien te worden.
 
-![](https://static.timesofisrael.com/atlantajewishtimes/uploads/2019/03/RE_Plaza-Midtown_Photo-2-640x400.jpg)
+![De Aziatische Cosci administratieve gebouwen](https://static.timesofisrael.com/atlantajewishtimes/uploads/2019/03/RE_Plaza-Midtown_Photo-2-640x400.jpg)
 
-De Aziatische Cosci administratieve gebouwen
-
-## Infrastructuur
+## 1.5. Infrastructuur
 
 Cosci krijgt in Okayama Internettoegang via twee verschillende ISP’s:
 
@@ -56,7 +54,7 @@ Voor de Aziatische vestiging zijn volgende VLANs voorzien:
 * VLAN 71: Onderhoud
 * VLAN 150: Voice
 
-## Technologieën 
+## 1.6. Technologieën
 
 Zorg dat volgende technologieën gebruikt worden:
 
@@ -69,6 +67,5 @@ Zorg dat volgende technologieën gebruikt worden:
 7. HSRP
 8. Dynamische NAT
 9. QoS (optioneel)
-
 
 Succes!
