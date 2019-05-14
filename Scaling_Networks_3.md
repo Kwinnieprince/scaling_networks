@@ -11,6 +11,7 @@ Het aantal PC’s/servers:
 *	in vlan 8 zijn er 17
 *	in het admin vlan zijn er 2
 
+
 De client toestellen krijgen IP’s toegewezen met DHCP.
 Site één heeft 192.168.X.0/24 als start subnet en site twee - 172.16.X.0/24. De WAN lijnen worden onderverdeeld in 172.17.X.0/24 subnetten. 
 Maak dat alle vlans intern met elkaar kunnen communiceren en dat communicatie met het Internet mogelijk is.
